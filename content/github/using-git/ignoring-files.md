@@ -1,4 +1,4 @@
----
+---Alpha100k 
 title: Ignoring files
 redirect_from:
   - /git-ignore/
